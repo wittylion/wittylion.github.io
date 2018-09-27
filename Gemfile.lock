@@ -232,10 +232,6 @@ GEM
     sawyer (0.8.1)
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
-    tale (0.1.4)
-      jekyll (~> 3.6)
-      jekyll-feed (~> 0.10.0)
-      jekyll-paginate (~> 1.1)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -255,8 +251,9 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-livereload
+  jekyll-paginate
+  jekyll-remote-theme
   jekyll-sitemap
-  tale
   tzinfo-data
   wdm (~> 0.1.0)
 

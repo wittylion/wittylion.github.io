@@ -18,8 +18,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
 
 # Theme settings.
-theme: tale
+remote_theme: chesterhow/tale
 permalink: :title
 paginate: 5
