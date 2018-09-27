@@ -11,7 +11,7 @@ author:
   name: Witty Lion
 
 # GitHub pages URL.
-url: "https://wittylion.github.io/"
+url: "https://wittylion.github.io"
 
 # Build settings
 markdown: kramdown
