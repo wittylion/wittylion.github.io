@@ -1,0 +1,25 @@
+# The main title of the site which will be used in places like <title> tag and logo section.
+title: Witty Lion
+
+# Primary description of the site.
+description: >- # this means to ignore newlines until next directive
+  This blogpost contains articles related to the all
+  production made by the Witty Lion company.
+
+# Main contacts of the author of the site.
+author:
+  name: Witty Lion
+
+# GitHub pages URL.
+url: "https://wittylion.github.io/"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Theme settings.
+theme: tale
+permalink: :title
+paginate: 5
