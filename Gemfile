@@ -1,13 +1,14 @@
 source "https://rubygems.org"
 
+# Use this line instead of gem "github-pages" to debug on local PC
+# gem "jekyll", "~> 3.8.5"
 gem "github-pages", group: :jekyll_plugins
 
+# The default theme.
+gem "minima", "~> 2.0"
+
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-sitemap'
-  gem 'jekyll-livereload'
-  gem "jekyll-remote-theme"
-  gem "jekyll-paginate"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

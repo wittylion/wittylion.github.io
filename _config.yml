@@ -1,5 +1,7 @@
 # The main title of the site which will be used in places like <title> tag and logo section.
-title: Witty Lion
+title: Witty Lion's Blog
+
+email: wittylioncompany@gmail.com
 
 # Primary description of the site.
 description: >- # this means to ignore newlines until next directive
@@ -7,21 +9,14 @@ description: >- # this means to ignore newlines until next directive
   production made by the Witty Lion company.
 
 # Main contacts of the author of the site.
-author:
-  name: Witty Lion
+author: Witty Lion
 
 # GitHub pages URL.
 url: "https://wittylion.github.io"
+github_username:  wittylion
 
 # Build settings
 markdown: kramdown
+theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-remote-theme
-
-# Theme settings.
-remote_theme: chesterhow/tale
-permalink: :title
-paginate: 5
