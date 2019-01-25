@@ -20,3 +20,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
+
+google_analytics: UA-133153148-1
+
+disqus:
+  shortname: wittylion-github-io
