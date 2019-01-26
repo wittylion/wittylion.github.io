@@ -2,6 +2,7 @@
 layout: post
 title: Witty Lion got its own website
 author: Sergey Solomentsev
+comments: true
 ---
 
 Hello and welcome to the Witty Lion's site.
