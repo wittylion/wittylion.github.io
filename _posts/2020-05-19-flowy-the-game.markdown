@@ -38,6 +38,6 @@ Since game started many new ideas have been added:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOUembn8Zlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download the game from Google Play Store: https://play.google.com/store/apps/details?id=com.WittyLion.Flowy
+Download the game from Google Play Store: [https://play.google.com/store/apps/details?id=com.WittyLion.Flowy](https://play.google.com/store/apps/details?id=com.WittyLion.Flowy)
 
 And let me know your impressions in the comments below.
