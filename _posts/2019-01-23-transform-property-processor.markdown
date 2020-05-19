@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Transform Property Processor
 author: Sergey Solomentsev
 comments: true

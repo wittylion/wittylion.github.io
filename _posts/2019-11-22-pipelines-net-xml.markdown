@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Pipelines.Net XML
 author: Sergey Solomentsev
 comments: true

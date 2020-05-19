@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Ways To Create Context
 author: Sergey Solomentsev
 comments: true

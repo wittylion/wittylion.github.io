@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Pipeline Repository
 author: Sergey Solomentsev
 comments: true

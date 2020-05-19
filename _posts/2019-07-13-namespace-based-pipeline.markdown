@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Namespace Based Pipeline
 author: Sergey Solomentsev
 comments: true
