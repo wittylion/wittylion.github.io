@@ -8,6 +8,7 @@ comments: true
 In [Pipelines.Net](https://www.nuget.org/packages/Pipelines.Net/) version 1.1.8 has been introduced a new functionality that allows modifying an existing pipeline. This functionality might be useful when pipeline needs to be extended, updated or debugged by a new library or custom code.
 
 ![Man in the field doing magic](/assets/posts/modify-pipeline/open-magic.jpg)
+
 Photo by [Aziz Acharki](https://unsplash.com/@acharki95?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 To quickly start with pipeline modification you have to use `Modify` extension method of any pipeline object. 
